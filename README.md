@@ -1,4 +1,4 @@
-#MovieFlix
+# MovieFlix
 <div align="center">
   <br>
   <img alt="Movie Flix" src="https://i.ibb.co/MCBJcX6/movie-flix-logo.png" width="300px">
